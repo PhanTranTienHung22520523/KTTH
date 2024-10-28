@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|c:\\users\\pc\\source\\repos\\crud\\crud\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|c:\\users\\pc\\source\\repos\\crud\\crud\\controllers\\userscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\userscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|c:\\users\\pc\\source\\repos\\crud\\crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|c:\\users\\pc\\source\\repos\\crud\\crud\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F21C6A49-CC7D-402C-A63D-3AA878CE059C}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:31:00.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:14:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersControllers.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Controllers\\UsersControllers.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\UsersControllers.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Controllers\\UsersControllers.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\UsersControllers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:13:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CRUD\\CRUD\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:34:31.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

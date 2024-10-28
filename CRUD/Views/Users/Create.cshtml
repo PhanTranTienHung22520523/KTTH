@@ -1,0 +1,42 @@
+﻿@model UserDTO
+@{
+}
+<div class="row">
+	<div class="col-md-8 mx-auto rounded border p-3">
+		<h2 class="text-center mb-5">New</h2>
+		<form method="post" enctype="multipart/form-data">
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-lable">Name</label>
+				<div class="col-sm-8">
+					<input class="form-control" asp-for="User_Name">
+					<span asp-validation-for="User_Name" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-lable">Email</label>
+				<div class="col-sm-8">
+					<input class="form-control" asp-for="User_Email">
+					<span asp-validation-for="User_Email" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-lable">Password</label>
+				<div class="col-sm-8">
+					<input class="form-control" asp-for="User_Password">
+					<span asp-validation-for="User_Password" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-lable">Phone Number</label>
+				<div class="col-sm-8">
+					<textarea class="form-control" asp-for="User_Phone"><</textarea>
+					<span asp-validation-for="User_Phone" class="text-danger"></span>
+				</div>
+			</div>
+
+		</form>
+	</div>
+</div>
